@@ -117,10 +117,10 @@ me.say_hi()
 
 <div align="center">
 
-### 📱 [Speakingbaezaapp](https://github.com/SpeakingBaeza/Speakingbaezaapp)
+### 📱 [Speakingbaezaapp](https://github.com/Parrilla38/Speakingbaezaapp)
 > **Una aplicación innovadora que combina Flutter e Inteligencia Artificial.**
 
-[![Ver Proyecto](https://img.shields.io/badge/Repositorio-Speakingbaezaapp-A177FE?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/SpeakingBaeza/Speakingbaezaapp)
+[![Ver Proyecto](https://img.shields.io/badge/Repositorio-Speakingbaezaapp-A177FE?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/Parrilla38/Speakingbaezaapp)
 
 *Este es mi proyecto principal de desarrollo, donde aplico mis conocimientos en desarrollo móvil y tecnologías de IA.*
 
@@ -141,22 +141,22 @@ me.say_hi()
 <div align="center">
 
 <!-- Stats + Streak lado a lado -->
-<a href="https://github.com/SpeakingBaeza">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SpeakingBaeza&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177FE&icon_color=A177FE&text_color=C9D1D9&ring_color=A177FE&include_all_commits=true&count_private=true" />
+<a href="https://github.com/Parrilla38">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Parrilla38&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177FE&icon_color=A177FE&text_color=C9D1D9&ring_color=A177FE&include_all_commits=true&count_private=true" />
 </a>
-<a href="https://github.com/SpeakingBaeza">
-  <img width="49%" src="https://streak-stats.demolab.com/?user=SpeakingBaeza&theme=tokyonight&hide_border=true&background=0D1117&ring=A177FE&fire=A177FE&currStreakLabel=A177FE&sideLabels=C9D1D9&dates=555555" />
+<a href="https://github.com/Parrilla38">
+  <img width="49%" src="https://streak-stats.demolab.com/?user=Parrilla38&theme=tokyonight&hide_border=true&background=0D1117&ring=A177FE&fire=A177FE&currStreakLabel=A177FE&sideLabels=C9D1D9&dates=555555" />
 </a>
 
 <br/><br/>
 
 <!-- Top Languages -->
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpeakingBaeza&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177FE&text_color=C9D1D9&langs_count=8" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parrilla38&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177FE&text_color=C9D1D9&langs_count=8" />
 
 <br/><br/>
 
 <!-- Activity Graph -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SpeakingBaeza&bg_color=0D1117&color=A177FE&line=A177FE&point=FFFFFF&area=true&area_color=A177FE&hide_border=true&custom_title=📈%20Gráfico%20de%20Contribuciones" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Parrilla38&bg_color=0D1117&color=A177FE&line=A177FE&point=FFFFFF&area=true&area_color=A177FE&hide_border=true&custom_title=📈%20Gráfico%20de%20Contribuciones" />
 
 </div>
 
@@ -170,7 +170,7 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SpeakingBaeza&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=Parrilla38&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
 
 </div>
 
@@ -185,9 +185,9 @@ me.say_hi()
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SpeakingBaeza/SpeakingBaeza/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SpeakingBaeza/SpeakingBaeza/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/SpeakingBaeza/SpeakingBaeza/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Parrilla38/Parrilla38/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Parrilla38/Parrilla38/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Parrilla38/Parrilla38/output/github-snake-dark.svg" />
 </picture>
 
 </div>
@@ -215,14 +215,14 @@ me.say_hi()
 <br/>
 
 <!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=SpeakingBaeza&color=A177FE&style=for-the-badge&label=👀+VISITAS+AL+PERFIL" />
+<img src="https://komarev.com/ghpvc/?username=Parrilla38&color=A177FE&style=for-the-badge&label=👀+VISITAS+AL+PERFIL" />
 
 <br/><br/>
 
 <!-- Social/Contact -->
 *¿Tienes una idea interesante? ¡Hablemos!*
 
-[![GitHub](https://img.shields.io/badge/GitHub-SpeakingBaeza-A177FE?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/SpeakingBaeza)
+[![GitHub](https://img.shields.io/badge/GitHub-Parrilla38-A177FE?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/Parrilla38)
 
 <br/>
 

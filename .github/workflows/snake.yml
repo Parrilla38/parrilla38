@@ -2,7 +2,7 @@
 # de las contribuciones en el perfil de GitHub.
 #
 # SETUP: Este archivo debe estar en tu repositorio especial
-# (SpeakingBaeza/SpeakingBaeza) en .github/workflows/snake.yml
+# (Parrilla38/Parrilla38) en .github/workflows/snake.yml
 
 name: Generate Snake Animation
 
@@ -29,7 +29,7 @@ jobs:
       - name: Generate Snake (Dark)
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: SpeakingBaeza
+          github_user_name: Parrilla38
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
